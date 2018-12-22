@@ -1,3 +1,4 @@
 # Devops-GIT
 
-Seshu
+-Edited read me file
+-Seshu
